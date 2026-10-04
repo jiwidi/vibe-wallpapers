@@ -1,0 +1,14 @@
+.venv*/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+wallpapers/
+previews/
+gallery/contact-sheets/
+gallery/thumbs/
+gallery/manifest.json
+gallery/catalog.js
+gallery/quality-report.json
+gallery/framing-report.json
+gallery/render-log.jsonl
